@@ -18,4 +18,4 @@ We will post the source code of the competition winner here, with a detailed cas
 
 The **deadline** for submitting your code is March 23rd. To submit your code, send the url of your fork, or a zip file to pydata-competition@maritimedatasystems.com.
 
-The results will be announced April 1st, on our blog at discover.searoutes.com
+The results will be announced April 1st, on our blog at [discover.searoutes.com](discover.searoutes.com)
